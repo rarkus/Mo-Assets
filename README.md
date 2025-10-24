@@ -14,4 +14,4 @@ Q: Can you change something you did with my assets? I don't like it.<br>A: DM me
 
 Q: If I want my assets removed, how would I go about getting my assets removed?<br>A: DM me through discord @rwslugcat and I will remove everything asap no questions asked! What you want done with your assets is important, as you made them not anyone else!
 
-Q: How do you handle obtaining assets that aren't directly donated to you?<br>A: If contactable I will contact them and ask them for permission, If someone is completely uncontactable by normal terms after trying to contact them I will put their tiles in the repository, and if they ever are contactable I will contact them and ask.
+Q: How do you handle obtaining assets that aren't directly donated to you?<br>A: If contactable I will contact them and ask them for permission, If someone is completely uncontactable by normal terms after trying to contact them I will put their assets in the repository, and if they ever are contactable I will contact them and ask.
