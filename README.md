@@ -1,3 +1,6 @@
+# OLD
+## Go to https://github.com/FishyRealYt/Mo-Assets for the new repository!
+
 A repository to help streamline Rain World modding!
 By Modders for modders from modders!
 We have a Q&A below! If you have any basic questions they should be answered below!
